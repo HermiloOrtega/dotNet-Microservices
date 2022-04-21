@@ -301,17 +301,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/hermiloortega/Desktop/git/dotNet-Microservices/mslearn-dotnetmicroservices/backend/backend.csproj",
+      "projectUniqueName": "/Users/hermiloortega/Desktop/git/dotNet-Microservices/backend/backend.csproj",
       "projectName": "backend",
-      "projectPath": "/Users/hermiloortega/Desktop/git/dotNet-Microservices/mslearn-dotnetmicroservices/backend/backend.csproj",
+      "projectPath": "/Users/hermiloortega/Desktop/git/dotNet-Microservices/backend/backend.csproj",
       "packagesPath": "/Users/hermiloortega/.nuget/packages/",
-      "outputPath": "/Users/hermiloortega/Desktop/git/dotNet-Microservices/mslearn-dotnetmicroservices/backend/obj/",
+      "outputPath": "/Users/hermiloortega/Desktop/git/dotNet-Microservices/backend/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/hermiloortega/Desktop/git/dotNet-Microservices/mslearn-dotnetmicroservices/backend/NuGet.Config",
+        "/Users/hermiloortega/Desktop/git/dotNet-Microservices/backend/NuGet.Config",
         "/Users/hermiloortega/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
